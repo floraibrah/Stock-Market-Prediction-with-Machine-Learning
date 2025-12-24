@@ -1,4 +1,4 @@
-# AI-powered Stock Market Prediction with Machine Learning
+# Stock Market Prediction with Machine Learning
 
 An interactive machine learning application for forecasting stock prices using deep learning. Built with Streamlit, this project allows users to analyze historical price data, train an LSTM model directly, and visualize predictions in a clean, intuitive interface. The goal? Bring ML to finance in a way that’s both accessible and grounded in real data.
 
