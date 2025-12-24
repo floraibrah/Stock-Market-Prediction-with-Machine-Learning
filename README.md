@@ -6,7 +6,7 @@ An interactive machine learning application for forecasting stock prices using d
 
 ---
 
-## 🔍 What It Does
+## What It Does
 
 - **Fetches real historical stock data** using `yfinance`
 - **Trains a deep learning model (LSTM)** from scratch using historical closing prices
@@ -18,13 +18,13 @@ This isn't just a tool to view prices — it's a full ML pipeline that starts wi
 
 ---
 
-## ✨ Why I Built It
+## Why I Built It
 
 I wanted to go beyond black-box dashboards and instead build something grounded in machine learning fundamentals. This project reflects a growing mastery of data science, deep learning, and clean user-focused design — and a commitment to making technical tools usable, purposeful, and beautiful.
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 - **Model Type:** LSTM (Long Short-Term Memory)
 - **Framework:** Keras (TensorFlow backend)
@@ -37,7 +37,7 @@ The model captures temporal patterns in the price history to learn how trends ev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - `Python 3.10+`
 - `Streamlit` for UI
@@ -49,7 +49,7 @@ The model captures temporal patterns in the price history to learn how trends ev
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Raw closing prices
 - 50-day and 100-day moving averages
